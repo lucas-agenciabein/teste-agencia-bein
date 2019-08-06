@@ -1,8 +1,8 @@
 # O teste
 Criar uma API e um APP (Android) utilizando as tecnologias que você mais gostar. O intuito do aplicativo é ser um To-Do List.
 
-Caso você não trabalhe com o desenvolvimento mobile, avise-nos.
-Caso você não trabalhe com o desenvolvimento de API's, avise-nos.
+- Caso você não trabalhe com o desenvolvimento mobile, avise-nos.
+- Caso você não trabalhe com o desenvolvimento de API's, avise-nos.
 
 # O projeto
 1. O aplicativo deve apresentar funcionalidades básicas como registro, login e mensagens de usuário / senha incorretos
