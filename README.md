@@ -12,7 +12,8 @@ Criar uma API e um APP (Android) utilizando as tecnologias que você mais gostar
 3. As tarefas devem ser salvas no banco de dados
 
 # Entregas
-Deve ser entregue um repositório contendo o aplicativo e um segundo repositório contento a API
+1. Deve ser entregue um repositório contendo o aplicativo e um segundo repositório contendo a API
+2. Deve ser entregue o APK do aplicativo
 
 # Opcional
 Publicação da API (pode-se utilizar hospedagens gratuitas como AWS, Heroku, ...)
